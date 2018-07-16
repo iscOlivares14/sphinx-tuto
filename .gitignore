@@ -1,0 +1,7 @@
+# environ files
+/venv/*
+!/venv/.gitkeep
+
+# sphinx output
+/build/*
+!/build/.gitkeep
