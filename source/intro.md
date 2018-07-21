@@ -1,14 +1,14 @@
-#  Intro
+#  Description
 
 This is the introductory paragraph
 
-# List
+# List Example
 
 This is a sample List
 * Item 1
 * Item 2
 
-# Sample C code
+# Sample C code **
 ```C
 #include<studio.h>
 

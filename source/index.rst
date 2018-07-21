@@ -10,9 +10,11 @@ Hi! This is my sample tutorial documentation with Sphinx
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
+   :name: startpoint
 
    intro
+   python code example <pycodeex1>
 
 Indices and tables
 ==================
